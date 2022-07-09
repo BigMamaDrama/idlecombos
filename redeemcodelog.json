@@ -1,0 +1,20 @@
+LACS-THUD-WUSS
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":0,"after":1}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":1}],"processing_time":"0.02131","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+RAIS-ETAN-KARD
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":1,"after":2}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":2}],"processing_time":"0.01327","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+CHIM-ERAP-ART1
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":2,"after":3}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":3}],"processing_time":"0.03628","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+LODE-WEID-ROWT
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":3,"after":4}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":4}],"processing_time":"0.00959","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+WAVA-WINJ-ULY!
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":4,"after":5}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":5}],"processing_time":"0.00989","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+PXWN-ZOAB-TAPA
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":5,"after":6}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":6}],"processing_time":"0.01271","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+FOUN-DEDW-ATER-DEEP
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":6,"after":7}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":7}],"processing_time":"0.01275","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+TAED-RAIN-WYNS
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":7,"after":8}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":8}],"processing_time":"0.01077","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+PARR-SINK-HISH
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":8,"after":9}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":9}],"processing_time":"0.04954","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
+CALF-ALEW-HARE
+ {"success":true,"loot_details":[{"loot_item":"generic_chest","loot_action":"generic_chest","count":1,"chest_type_id":282,"before":9,"after":10}],"okay":true,"actions":[{"action":"update_chest_count","chest_type_id":282,"count":10}],"processing_time":"0.01427","memory_usage":"2 mb","apc_stats":{"gets":5,"gets_time":"0.00000","sets":0,"sets_time":"0.00000"},"db_stats":{"10":false,"1":false}}
